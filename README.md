@@ -3,6 +3,7 @@ Este contador muestras los números en verde cuando son positivos, en rojo cuand
 
 ## Pasos a seguir
 
+0. Renombra el fichero app.js; que contiene la solución al ejercicio. Crea uno nuevo.
 1. Intenta primero simplemente recuperar los dos elementos del DOM al que debes aplicar el evento __click__
 2. Comprueba que eres capaz de aplicarlo, haciendo una prueba simple, como por ejemplo, que al hacer clic, en uno de los botones, muestre una cosa. Y al hacer clic en otro botón, muestre un mensaje diferente por consola.
 3. Vas a necesitar una variable para almacenar el valor del contador. Piensa bien donde debe ir.
